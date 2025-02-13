@@ -1,2 +1,2 @@
 # Ooredoo_Automation
-Automation code of Ooredoo. 
+This repo contains the automation code for ooredo written in robot framework.  
